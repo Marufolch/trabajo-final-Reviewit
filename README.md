@@ -1,27 +1,21 @@
 # trabajo-final-Reviewit
-trabajo TKinter
-###################################### README ########################################################################################
+##################### README ######################################
 
-## Propósito de la Aplicación Reviewit ofrece una solución intuitiva para descubrir y evaluar locales gastronómicos. Los usuarios pueden 
+Propósito de la Aplicación Reviewit ofrece una solución intuitiva para descubrir y evaluar locales gastronómicos. Los usuarios pueden
 visualizar una lista de los locales más populares, ver sus reseñas, y guardar sus favoritos para futuras referencias. La aplicación se 
 centra en brindar una interfaz amigable y funcional, similar esteticamente al sistema de gestión de pedidos propuesto por el docente.
 
 ################### Instalacion y ejecucion de la aplicacion:
 
 1 - Abre tu navegador web y ve a la página principal de GitHub.
-
 2 - Descarga el archivo zip del repositorio.
 
     2.1    Haz clic en el botón "Code" (Código) que se encuentra en la parte superior derecha de la página del repositorio (frame verde).
-
     2.2    En el menú desplegable, selecciona "Download ZIP" (Descargar ZIP).
-
     2.3    Guarda el archivo ZIP en tu computadora en la ubicación que prefieras.
 
 3 - Descomprime el archivo ZIP haciendo clic derecho sobre él y seleccionando "Extraer aquí" o "Descomprimir aquí".
-
 4 - Acceder al Directorio de la carpeta de descarga, ingresar a la carpeta "dist"(ubicacion de descarga\final\dist)
-
 5 - Iniciar la Aplicación mediante la ejecucion del archivo "reviewit_app.exe"
 
 #################### Uso de la Aplicación:
